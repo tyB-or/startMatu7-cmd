@@ -126,6 +126,13 @@ https://github.com/user-attachments/assets/60031612-8462-4afa-bf98-d3c00eac01f5
 ```bash
 ./start -n Resin,攻击
 ```
+### 使用截图
+![t](https://github.com/user-attachments/assets/7562cadf-c223-496a-84da-67f7f46e48ca)
+![w](https://github.com/user-attachments/assets/4c1b6aae-67a5-4e96-a09f-42e43b7e5d4c)
+![n](https://github.com/user-attachments/assets/72240468-3d19-4e83-bd12-fb027c89ff06)
+![t-jar](https://github.com/user-attachments/assets/76674273-099f-47ce-b7fb-f1c41896c92a)
+![tm](https://github.com/user-attachments/assets/67473abc-9756-438b-8050-6008a80c34a0)
+
 
 ## 配置文件格式
 
