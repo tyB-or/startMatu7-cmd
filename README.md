@@ -51,6 +51,10 @@ sudo mv start /usr/local/bin/
 
 ## 使用说明
 
+
+https://github.com/user-attachments/assets/60031612-8462-4afa-bf98-d3c00eac01f5
+
+
 ### 基本命令
 
 - **离线工具**：
